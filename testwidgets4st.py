@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('TEST DRAFT ONLY Resources News')
+st.title('TEST DRAFT ONLY "Resources News"')
 #st.sidebar.title('Navigation')
 nav=st.sidebar.radio('Navigation',['Home','Agriculture','Energy'])
 
